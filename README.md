@@ -1,0 +1,1 @@
+WordPress Theme based on Google Material Design Lite Framework.
